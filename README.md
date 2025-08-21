@@ -1,5 +1,5 @@
-# Slackerish
-## The Evry Ting Websight.
+# Slackerish.
+The Evry Ting Websight.
 <!--
 **waterl3mon/waterl3mon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
